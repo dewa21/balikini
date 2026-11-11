@@ -1,6 +1,5 @@
 balikini reolusi 
-- membuat balikini.com 
-- membuat website balikiniholiday.com
-- membuat content video minimal 2 x seminggu
-- membuat webdepelopment website
-- membuat shop online kedepannya
+- balikini.com 
+- balikiniholiday.com
+- content video minimal 2 x seminggu
+- webdepelopment website
